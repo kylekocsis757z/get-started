@@ -1,5 +1,5 @@
 <?php
-header("Location: http://cottonstitch.us");
+header("Location: https://www.thecitydogdaycare.com");
 die();
 ?>
  
