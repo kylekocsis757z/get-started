@@ -1,5 +1,5 @@
 <?php
-header("Location: hhttps://pestssolution.us/nor/index.html");
+header("Location: https://pestssolution.us/nor/index.html");
 die();
 ?>
  
